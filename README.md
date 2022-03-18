@@ -1,4 +1,4 @@
-# 55nodes-swissdistributiongrid
+# 55nodes-Swiss-distribution-grid
 The file is mat. file and it consists of grid data, location of node, installed PV panel capacity, installed hydro power plant capacity. Also it has load profiles of 8 typical day-types, solar irradiation data of 8 typical day-types, and hydro generation of 8 typical day-types. 
 1. Array "Linedata" shows the line data of the 55 nodes distribution grid. The columns represet as follows:   
       1st and 2nd columns - node numbers connected to each other by line. 
