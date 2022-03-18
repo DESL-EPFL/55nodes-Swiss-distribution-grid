@@ -7,6 +7,7 @@ The file is mat. file and it consists of grid data, location of node, installed 
       5th column : susceptance(b) of the line(microS/km) 
       6th column : line ampacity(A)
       7th column : line length(km)
+      8th column : Type of line (1-overhead line, 2-underground cable)
 2. Nodes_with_Load : Node number where the load consumption is located
 3. Nodes_with_PV_capacity :
       1st column : Nodes with PV panel
